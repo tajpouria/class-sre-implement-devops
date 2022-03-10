@@ -2,7 +2,7 @@
 
 DevOps is like an abstract class in programming, and SRE is one possible implementation of that class.
 
-## What’s the difference between DevOps and SRE?
+### What’s the difference between DevOps and SRE?
 
 DevOps is a set of practices and cultures that have been designed to break down the barriers between developers, operators, and other parts of the organization.
 
